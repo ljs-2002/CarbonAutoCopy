@@ -1,0 +1,16 @@
+{
+    //carbon 配置
+    "carbon.backgroundColor": "rgba(171,184,195,1)",
+    "carbon.theme": "seti",
+    "carbon.dropShadow": false,
+    "carbon.windowControls": false,
+    "carbon.autoAdjustWidth": true,
+    "carbon.paddingVertical": 0,
+    "carbon.paddingHorizontal": 0,
+    "carbon.lineNumbers": true,
+    "carbon.fontFamily": "Hack",
+    "carbon.fontSize": 14,
+    "carbon.lineHeight": 185,
+    "carbon.windowTheme": "sharp",
+    "carbon.showWatermark": false
+}
